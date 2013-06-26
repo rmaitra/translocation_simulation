@@ -1,4 +1,4 @@
-%% 2nd Order Simulation of DNA translocation
+%% 1st Order Simulation of DNA translocation
 %Raj Maitra
 %Notes:
 %Dekker, Fast Translocation through solid-state nanopore
